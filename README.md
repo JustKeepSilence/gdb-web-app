@@ -1,2 +1,3 @@
-# gdb-web-app
-the webappilcation of gdb wriiten with vue
+# app
+
+> Web application based on vue
